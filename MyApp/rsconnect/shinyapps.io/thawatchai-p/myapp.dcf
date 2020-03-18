@@ -1,0 +1,10 @@
+name: myapp
+title:
+username:
+account: thawatchai-p
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1961119
+bundleId: 2893247
+url: https://thawatchai-p.shinyapps.io/myapp/
+when: 1584520691.37673
